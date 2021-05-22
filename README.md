@@ -1,5 +1,5 @@
-### Hi there 👋
-![ Alt text](cvr1. gif) / ! [](cvr1. gif)
+
+![ Alt text](cvr1.gif) / ! [](cvr1.gif)
 
 <!--
 **bhaveshnk/bhaveshnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
